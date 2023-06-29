@@ -1,1 +1,1 @@
-# Sentiment-Analysis-on-Nepali-Sentences-Using-Bert-Models
+# Sentiment-Analysis-on-Nepali-Sentences-Using-BERT-Models
